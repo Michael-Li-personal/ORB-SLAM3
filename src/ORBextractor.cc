@@ -689,7 +689,7 @@ namespace ORB_SLAM3
             else if(((int)lNodes.size()+nToExpand*3)>N)
             {
 
-                while(!bFinish)
+             //   while(!bFinish)
                 {
 
                     prevSize = lNodes.size();
